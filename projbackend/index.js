@@ -23,7 +23,7 @@ const authRoutes=require("./routes/auth");
 
 app.use("/api",authRoutes);
 
-const port=process.env.PORT || 3000;
+const port=process.env.PORT || 8000;
 
 app.listen(port,()=>{
     console.log(`App running on port ${port}`);

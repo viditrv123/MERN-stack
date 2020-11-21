@@ -1,0 +1,21 @@
+nav{
+  background-color: #f08a5d;
+}
+h1{
+  text-align: center;
+  color: #eeecda;
+}
+footer{
+  background-color: #f08a5d;
+  
+}
+h6{
+  text-align: center;
+  color: #eeecda;
+  padding: 1rem;
+  margin: 0;
+}
+img{
+  height: 500px;
+  width: 100%;
+}
